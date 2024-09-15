@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>easyz</title>
-    <link>http://localhost:1313/hugo-PaperMod/</link>
+    <link>http://localhost:1313/easy_life/</link>
     <description>Recent content on easyz</description>
     <image>
       <title>easyz</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/easy_life/images/papermod-cover.png</url>
+      <link>http://localhost:1313/easy_life/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <copyright>©Test</copyright>
     <lastBuildDate>Sun, 15 Sep 2024 20:12:23 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/easy_life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About how to build website by hugo</title>
-      <link>http://localhost:1313/hugo-PaperMod/posts/my-first-post/</link>
+      <link>http://localhost:1313/easy_life/posts/my-first-post/</link>
       <pubDate>Sun, 15 Sep 2024 20:12:23 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/easy_life/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;my-first-time-using-hugo-to-build-a-static-site&#34;&gt;My first time using hugo to build a static site&lt;/h1&gt;
 &lt;h3 id=&#34;1-test&#34;&gt;1 Test&lt;/h3&gt;
 &lt;h5 id=&#34;2-test&#34;&gt;2 Test&lt;/h5&gt;</description>

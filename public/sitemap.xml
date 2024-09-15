@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/</loc>
+    <loc>http://localhost:1313/easy_life/posts/my-first-post/</loc>
     <lastmod>2024-09-15T20:12:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/</loc>
+    <loc>http://localhost:1313/easy_life/</loc>
     <lastmod>2024-09-15T20:12:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/easy_life/posts/</loc>
     <lastmod>2024-09-15T20:12:23+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/archives/</loc>
+    <loc>http://localhost:1313/easy_life/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
+    <loc>http://localhost:1313/easy_life/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/search/</loc>
+    <loc>http://localhost:1313/easy_life/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
+    <loc>http://localhost:1313/easy_life/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/tags/</loc>
+    <loc>http://localhost:1313/easy_life/tags/</loc>
   </url>
 </urlset>

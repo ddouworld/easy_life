@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on easyz</title>
-    <link>http://localhost:1313/hugo-PaperMod/tags/</link>
+    <link>http://localhost:1313/easy_life/tags/</link>
     <description>Recent content in Tags on easyz</description>
     <image>
       <title>easyz</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/easy_life/images/papermod-cover.png</url>
+      <link>http://localhost:1313/easy_life/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <copyright>©Test</copyright>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/easy_life/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
