@@ -64,6 +64,8 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
 
   # Deployment job
   deploy:
