@@ -111,7 +111,7 @@ params:
     google:
       SiteVerificationTag: "G-Z1JQFND546"
     bing:
-      SiteVerificationTag: "https://www.easyz.top/"
+      SiteVerificationTag: "FDC44026DFBCDBE557374965A482D4E0"
 
   assets:
     disableHLJS: true
