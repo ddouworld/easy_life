@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://www.easyz.top/easy_life/"
 title: easyz
-copyright: "©Test"
+copyright: "©Easyz"
 paginate: 5
 theme: [hugo-PaperMod]
 
@@ -47,7 +47,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  description: "about life and program,Reverse,pyd file,decrypt pyarmor"
   author: easyz
   # author: ["Me", "You"] # multiple authors
 
