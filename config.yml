@@ -107,9 +107,11 @@ params:
   # icon: icon.png
   # iconHeight: 35
 
-  # analytics:
-  #     google:
-  #         SiteVerificationTag: "XYZabc"
+  analytics:
+    google:
+      SiteVerificationTag: "G-Z1JQFND546"
+    bing:
+      SiteVerificationTag: "https://www.easyz.top/"
 
   assets:
     disableHLJS: true
