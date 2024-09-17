@@ -12,16 +12,14 @@
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <copyright>©Easyz</copyright>
-    <lastBuildDate>Sun, 15 Sep 2024 20:12:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 11:30:03 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/easy_life/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About how to build website by hugo</title>
+      <title>My firt time use hugo to build my website</title>
       <link>http://localhost:1313/easy_life/posts/my-first-post/</link>
-      <pubDate>Sun, 15 Sep 2024 20:12:23 +0800</pubDate>
+      <pubDate>Sun, 15 Sep 2024 11:30:03 +0000</pubDate>
       <guid>http://localhost:1313/easy_life/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;my-first-time-using-hugo-to-build-a-static-site&#34;&gt;My first time using hugo to build a static site&lt;/h1&gt;
-&lt;h3 id=&#34;1-test&#34;&gt;1 Test&lt;/h3&gt;
-&lt;h5 id=&#34;2-test&#34;&gt;2 Test&lt;/h5&gt;</description>
+      <description>Desc Text.</description>
     </item>
   </channel>
 </rss>
